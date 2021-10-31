@@ -50,7 +50,7 @@ that by downloading the install script first, looking through it so everything l
 then running it:
 
 ```shell
-curl -Lo install.sh https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
+curl -Lo install.sh https://raw.githubusercontent.com/limme/ohmyzsh/master/tools/install.sh
 sh install.sh
 ```
 
